@@ -1,0 +1,10 @@
+package DAY_40_exceptions;
+
+public class ExceptionFinallyOrnek02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
